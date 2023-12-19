@@ -22,7 +22,8 @@ Design responsivo para proporcionar uma experiência consistente em dispositivos
 <h2>Tecnologias Utilizadas</h2>
 <li>HTML: Estruturação semântica da página.</li>
 <li>CSS: Estilização e design responsivo.</li>
-GitHub: Plataforma de hospedagem do código-fonte e controle de versão.
+
+ <h2> Esse é o link do Projeto <a href="https://4mandatorres.github.io/Easy-Shopping/">Easy-Shopping</a></h2>
 
 Próximos Passos
 Adicionar funcionalidades avançadas, como sistema de autenticação, busca de produtos, etc.
